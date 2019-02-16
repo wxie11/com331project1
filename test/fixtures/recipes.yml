@@ -8,7 +8,7 @@ shrimp:
              cook the shrimp with butter, garlic, and oil on a hot
              pan for 3 minutes. Finally put the pasta into the pan,
              cook for 5 mintues.
-  difficulties: challenging
+  difficulty_id: 3
 
 poke:
   title: Poke Bowl
@@ -16,7 +16,7 @@ poke:
   ingredient: Tuna, salmon, rice, vinger, soy sauce
   direction: First mixes the rice with vinger in a bowl. Then place all
              the fish on top of the rice. Finally, put some soy sauce.
-  difficulties: moderate
+  difficulty_id: 2
 
 ramen:
   title: Instant Ramen
@@ -24,4 +24,4 @@ ramen:
   ingredient: Cup noodle, water
   direction: First boil the water. Then put the boiled water into the cup
              noodle. Wait for 3 minutes!
-  difficulties: easy
+  difficulty_id: 1
