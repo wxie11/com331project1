@@ -1,13 +1,27 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  img_url: MyString
-  ingredient: MyText
-  direction: MyText
+shrimp:
+  title: Shrimp Pasta
+  img_url: shrimp_pasta.jpg
+  ingredient: Shrimp, Pasta, Butter, Olive Oil, Garlic
+  direction: First cook pasta in boil water for 6-8 minutes. Then
+             cook the shrimp with butter, garlic, and oil on a hot
+             pan for 3 minutes. Finally put the pasta into the pan,
+             cook for 5 mintues.
+  difficulties: challenging
 
-two:
-  title: MyString
-  img_url: MyString
-  ingredient: MyText
-  direction: MyText
+poke:
+  title: Poke Bowl
+  img_url: poke_bowl.jpg
+  ingredient: Tuna, salmon, rice, vinger, soy sauce
+  direction: First mixes the rice with vinger in a bowl. Then place all
+             the fish on top of the rice. Finally, put some soy sauce.
+  difficulties: moderate
+
+ramen:
+  title: Instant Ramen
+  img_url: ramen.jpg
+  ingredient: Cup noodle, water
+  direction: First boil the water. Then put the boiled water into the cup
+             noodle. Wait for 3 minutes!
+  difficulties: easy
